@@ -38,7 +38,7 @@ hyper = "0.11.2"
 log = "0.3.5"
 mdns = { git = "https://github.com/plietar/rust-mdns" }
 num-bigint = "0.1.35"
-protobuf = "1.1"
+protobuf = "2.6"
 rand = "0.3.13"
 rpassword = "0.3.0"
 rust-crypto = { git = "https://github.com/awmath/rust-crypto.git", branch = "avx2" }
